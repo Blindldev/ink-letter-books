@@ -3,11 +3,11 @@ Hi!
 I've shared the Ink Letter Books project with you. Here's everything you need to get started:
 
 📦 REPOSITORY
-GitHub URL: [YOUR_REPO_URL_HERE]
+GitHub URL: https://github.com/Blindldev/ink-letter-books
 
 🚀 QUICK START
 1. Clone the repository:
-   git clone [YOUR_REPO_URL_HERE]
+   git clone https://github.com/Blindldev/ink-letter-books.git
    cd Bookstore
 
 2. Install dependencies:
