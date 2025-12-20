@@ -1,0 +1,17 @@
+{
+  "name": "bookstore-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "admin",
+    "frontend"
+  ],
+  "scripts": {
+    "dev:admin": "cd admin && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "build:admin": "cd admin && npm run build",
+    "build:frontend": "cd frontend && npm run build"
+  }
+}
+
+
