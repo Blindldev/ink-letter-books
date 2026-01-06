@@ -119,3 +119,4 @@ echo "  export NEXT_PUBLIC_SUPABASE_ANON_KEY='your_key'"
 echo "  ./run-populate.sh"
 
 
+

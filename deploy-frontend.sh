@@ -28,3 +28,4 @@ echo "2. Add environment variables in Vercel Dashboard if needed"
 echo "3. Share the URL to view your bookstore!"
 
 
+

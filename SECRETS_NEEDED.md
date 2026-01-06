@@ -154,3 +154,4 @@ await ses.send(new SendEmailCommand({
 5. Add initial data (holidays, events, coupons)
 
 
+

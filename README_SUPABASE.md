@@ -40,3 +40,4 @@ This will guide you through the setup process.
 - `admin/supabase/schema.sql` - Database schema
 
 
+

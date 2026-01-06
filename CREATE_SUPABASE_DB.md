@@ -200,3 +200,4 @@ You can always use CLI later for advanced features!
 - `NEXT_PUBLIC_SUPABASE_ANON_KEY`
 
 
+
